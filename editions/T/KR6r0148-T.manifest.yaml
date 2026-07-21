@@ -19,7 +19,7 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0148_000-T.yaml, hash: 'sha256:fd42905c89981f6e7003f6e7abfc0ea570ba96614028e8562a24f6bd7120ab37'}
+  - {seq: 0, filename: KR6r0148_000-T.yaml, hash: 'sha256:1880174679dc012933ae5c123c04c0f36fffadb8e0f4d8454f6999adc77e2da8'}
   - {seq: 1, filename: KR6r0148_001-T.yaml, hash: 'sha256:c02724477c28415e101e32bb658e92a3a337ee4d5349ffbbd19dc6c7eafbe3f6'}
   - {seq: 2, filename: KR6r0148_002-T.yaml, hash: 'sha256:fbef4cd277c8045df19eaeaf36c6dc96ef29a616df0271bb596cc62b564d5274'}
   - {seq: 3, filename: KR6r0148_003-T.yaml, hash: 'sha256:a8a9a16a1291232c74e4fd04b8cd58085e8ec39881c7454f62d1196a653914fb'}
@@ -40,7 +40,7 @@ assets:
   - {seq: 18, filename: KR6r0148_018-T.yaml, hash: 'sha256:e16fc33c4f4147a50a6b1228ec3da842b4034c75fcbe2f2bd7a0dd3873f58f6f'}
   - {seq: 19, filename: KR6r0148_019-T.yaml, hash: 'sha256:8f32186134e4bc495581d71557b3d6e1ea883d1c92c3247fb516920289d37e10'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0148_000-T.markers.yaml, hash: 'sha256:c3554c1aa9078b52a7ee83a0ee19772ce37bfdb0d8317a4db06197e3a8c56382'}
+  - {seq: 0, role: markers, filename: assets/KR6r0148_000-T.markers.yaml, hash: 'sha256:8fb7762dbd3fa54e51a13179dacfc1cd926fac12610c9100a43ddfc7aba573d7'}
   - {seq: 1, role: markers, filename: assets/KR6r0148_001-T.markers.yaml, hash: 'sha256:dac9f05112bd411e6ad17faf2e498124e73d6d95b1cc6d4e878d76c121391be3'}
   - {seq: 2, role: markers, filename: assets/KR6r0148_002-T.markers.yaml, hash: 'sha256:7adb4d61c446d4c7e809e0093f84c055a7d0a70a41efa1c2fd90beff81c8de3b'}
   - {seq: 3, role: markers, filename: assets/KR6r0148_003-T.markers.yaml, hash: 'sha256:49db370275b3d0788fc062dd4872caf6b69bce2064fe7bf5dd3a054104a426e8'}
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0148_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 鐔津文集目錄
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0148_T_000-mulu-2
     span:
-    - front
+    - body
     - 1152
     - 1152
   label: 鐔津明教大師行業記
@@ -4081,4 +4081,4 @@ table_of_contents:
   label: 重刻鐔津文集後序
   type: mulu
   level: 1
-hash: sha256:4b8b5e7055876452673af28d73e242952cea06ab7ca8f0efa6b02e186b155bd4
+hash: sha256:8d4541f7bdca0877c3f27210db025a06ed4f8f70c1467fde7d76332545137c90
